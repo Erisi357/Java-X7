@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class UshtrimeIF {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println();
 
